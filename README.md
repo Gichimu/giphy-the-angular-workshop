@@ -1,11 +1,13 @@
-# Angular week 2 Live Coding Workshop
-- This was a live coding session to do a recap on some of the content the students covered in angular  CLI week 2.
+# Intro to Angular Workshop
+- Angular CLI workshop I did  with some students in Moringa School.
+-
 
 ## Discussed Topics
+- Intro to how the Internet works(http).
 - Introduction to consuming simple REST APIs.
 - Introduction to Routing Module .
 - Introduction to Dependency Injection and Services.
-- Introduction to HttpModule & HttpClient using promises.
+- Introduction to HttpClient using promises.
 - Passing parameters to routes
 
 ## Giphy API
@@ -157,6 +159,7 @@ ng g s services/giphy-http-service
 	- [https://github.com/jakhax/giphy-the-angular-workshop/blob/2550addc9a7c4a363d7bf4eb8ffabb9d23bc7f40/src/app/giphy/giphy.component.html](https://github.com/jakhax/giphy-the-angular-workshop/blob/2550addc9a7c4a363d7bf4eb8ffabb9d23bc7f40/src/app/giphy/giphy.component.html)
 
 ## Resources
-- todo
+- Official Documentation [https://angular.io/cli](https://angular.io/cli)
+- Giphy Api documentation [https://developers.giphy.com/docs/api#quick-start-guide](https://developers.giphy.com/docs/api#quick-start-guide)
 
 
