@@ -1,6 +1,6 @@
 # Intro to Angular Workshop
-- Angular CLI workshop I did  with some students in Moringa School.
--
+- Angular CLI workshop I did  with students in Moringa School.
+- You can follow along by checking out to branches,also the document contains link to sources and the gradual changes made from a blank repo to the deployed project.
 
 ## Discussed Topics
 - Intro to how the Internet works(http).
